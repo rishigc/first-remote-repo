@@ -2,4 +2,3 @@ This is my first push
 Some random text
 Let's see
 More text
-Test with previous commit
