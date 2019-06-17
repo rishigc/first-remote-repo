@@ -2,5 +2,8 @@ This is my first push
 Some random text
 Let's see
 More text
-Testing for git branch
+<<<<<<< HEAD
 Testing for merge conflict
+=======
+Merge conflict
+>>>>>>> first-branch
