@@ -3,3 +3,4 @@ Some random text
 Let's see
 More text
 Testing for merge conflict
+More random text
