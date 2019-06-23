@@ -4,3 +4,4 @@ Let's see
 More text
 Testing for merge conflict
 More random text
+Some more random test for rebasing
