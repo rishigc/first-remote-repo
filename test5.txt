@@ -1,0 +1,1 @@
+Some text for rebase... this should appear in new-branch
