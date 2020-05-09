@@ -5,3 +5,9 @@ More text
 Testing for merge conflict
 More random text
 Some more random test for rebasing
+
+-----------
+
+Testing for reset
+
+More text for testing
