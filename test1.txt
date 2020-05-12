@@ -19,3 +19,7 @@ Text for reverting 1
 ------------
 
 Revert test successful
+
+---------
+
+I have deleted test2.txt
