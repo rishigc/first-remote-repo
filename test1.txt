@@ -15,3 +15,7 @@ More text for testing
 ---------
 
 Text for reverting 1
+
+------------
+
+Revert test successful
