@@ -15,3 +15,5 @@ More text for testing
 ---------
 
 Text for reverting 1
+
+Text for reverting 2
